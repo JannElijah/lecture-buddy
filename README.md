@@ -7,7 +7,7 @@
 Lecture Buddy is an AI-powered study assistant designed to help students digest complex lecture slides instantly. By uploading a PDF, the application uses Google's Gemini 2.0 model to generate concise summaries and interactive quizzes, transforming passive reading into active learning.
 
 ![App Screenshot](app-preview.png)
--> Note: Replace the image link above with a screenshot of your running application!-
+
 
  🚀 Key Features
 
