@@ -11,7 +11,7 @@ Lecture Buddy is an AI-powered study assistant designed to help students digest 
 
  🚀 Key Features
 
-- -🤖 Instant Analysis: Uses Google Gemini 2.0 Flash for lightning-fast text processing.
+- 🤖 Instant Analysis: Uses Google Gemini 2.0 Flash for lightning-fast text processing.
 - 📄 PDF Support: specific handling for lecture slide decks via `PyPDF2`.
 - 📝 Smart Summaries: Generates structured, bullet-point notes using Markdown formatting.
 - ❓ Dynamic Quizzes: Creates custom multiple-choice questions with adjustable difficulty (Easy/Medium/Hard).
@@ -28,13 +28,13 @@ Lecture Buddy is an AI-powered study assistant designed to help students digest 
  📦 How to Run Locally
 
 1.  Clone the repository:
-    bash
-    git clone https://github.com/yourusername/lecture-buddy.git
+    
+    git clone https://github.com/JannElijah/lecture-buddy.git
     cd lecture-buddy
     
 
 2.  Create a Virtual Environment (Optional but recommended):
-    bash
+    
     python -m venv venv
     # Windows
     .\venv\Scripts\activate
@@ -43,12 +43,12 @@ Lecture Buddy is an AI-powered study assistant designed to help students digest 
     
 
 3.  Install dependencies:
-    bash
+    
     pip install -r requirements.txt
     
 
 4.  Run the application:
-    bash
+    
     streamlit run app.py
     
 
@@ -62,7 +62,7 @@ To use the AI features, you need a Google Gemini API Key.
 
 Jann Elijah B. Limpiado
 3rd Year IT Student
--   [LinkedIn Profile](www.linkedin.com/in/jannlimpiado)
+-   [LinkedIn Profile](https://www.linkedin.com/in/jannlimpiado/)
 -   [GitHub Profile](https://github.com/JannElijah)
 
 
