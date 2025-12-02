@@ -60,7 +60,7 @@ To use the AI features, you need a Google Gemini API Key.
 
  👨‍💻 Author
 
-[Your Name]
+Jann Elijah B. Limpiado
 -3rd Year IT Student-
 -   [LinkedIn Profile](www.linkedin.com/in/jannlimpiado)
 -   [GitHub Profile](https://github.com/JannElijah)
